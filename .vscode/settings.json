@@ -1,0 +1,10 @@
+{
+    "css.lint.unknownProperties": "ignore",
+    "css.lint.vendorPrefix": "ignore",
+    "css.lint.compatibleVendorPrefixes": "ignore",
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.debug.settings.onBuildFailureProceed": true
+}
